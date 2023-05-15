@@ -4,7 +4,7 @@ import React from "react";
 const App = () => {
     return (
         <div>
-            <h1>Hello accio</h1>
+            <p>you can now create full fleged React components and render it on the DOM node of your choice.</p>
         </div>
       )
   }
